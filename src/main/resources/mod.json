@@ -1,0 +1,16 @@
+{
+
+  // Java verticle
+  "main":"de.orolle.vertx2.modfacebook.Facebook",
+
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"Access Facebooks FQL API",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Oliver Rolle",
+
+  // Optional fields
+  "keywords": ["Facebook", "FQL", "Open Graph", "bundled query"],
+  "homepage": "https://github.com/orolle/mod-facebook"
+}
